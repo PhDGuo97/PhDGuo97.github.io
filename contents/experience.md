@@ -1,21 +1,10 @@
 ### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+**4 2023 – 7 2024 | 博雅工道(北京)机器人科技有限公司**  
+After earning my master's degree, I joined 博雅工道(北京)机器人科技有限公司 as a Robotic Motion Control Engineer, primarily responsible for motion control 
+of unmanned surface vessels, including LiDAR point cloud processing, path planning, and PID control. During this period, I participated in several major projects, 
+collaborating with multiple companies such as CETC Group and Hikvision's subsidiaries for algorithm development.
+Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. 
+Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+硕士毕业之后，我加入了博雅工道公司担任机器人运动控制工程师职位，主要负责无人船的运动控制，包括激光雷达的点云数据处理，路径规划，和PID控制。期间参与了多个大型项目，余多家公司协同合作，如中电科集团和海康威视的子公司等进行算法的开发。
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
