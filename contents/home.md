@@ -1,18 +1,20 @@
 
-**籍贯： 山东 - 济宁** <br>
+**籍贯 |&ensp;  Place of Origin： 山东 - 济宁 |&ensp;  Shandong - Jining**     
+**居住地 |&ensp; Current Residence： 广东 - 广州 |&ensp;  Guangdong - Guangzhou** <br>
 *目前正在中山大学系统科学与工程学院攻读博士学位！*<br>
-**I'm currently pursuing an Engineering Doctor  degree in Computer Science and Technology at the School of Systems science and Engineering, Sun Yat-sen University, Guangzhou, Chaina.**
+**I'm currently pursuing an Engineering Doctor  degree in Computer Science and Technology
+at the School of Systems science and Engineering, Sun Yat-sen University, Guangzhou, China.**
 
 #### Email  
 <code>xinpx1457@163.com</code>  
 <code>guogx5@mail2.sysu.edu.cn</code> <br>
 <code>guo.ggxin1457@gmail.com</code>
+#### Personal Website  
+<a href="https://orcid.org/0000-0002-3080-9244"> [ORCID] </a>
 
-<a href="https://orcid.org/0000-0002-3080-9244"> ORCID
+<a href = "https://scholar.google.com/citations?user=A5YN3oUAAAAJ&hl=en" >[Google Scholar]</a>
 
-<a href = "https://scholar.google.com/citations?user=A5YN3oUAAAAJ&hl=en" >Google Scholar
-
-<a href="https://www.researchgate.net/profile/Guangxin-Guo-4?ev=hdr_xprf"> ResearchGate
+<a href="https://www.researchgate.net/profile/Guangxin-Guo-4?ev=hdr_xprf"> [ResearchGate]</a>
 
 #### Education  
 <img src="SYSU.png" alt="SYSU" width="800" height="100">
