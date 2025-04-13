@@ -4,6 +4,8 @@
 *目前正在中山大学系统科学与工程学院攻读博士学位！截至目前已经发表了6本peer-reviewed 的SCIE论文，包括中科院二区TOP期刊
 和控制自动化领域内的排名靠前的IEEE Trans。于2025年2月，被学校派遣到中国人民解放军军事科学院下的国防创新研究院进行联培，
 研究基于强化学习的多水下航行器的编队围捕方向。*<br>
+<br>
+
 **I'm currently pursuing an Engineering Doctor  degree in Computer Science and Technology
 at the School of Systems science and Engineering, Sun Yat-sen University, Guangzhou, China. To date, 
 I have published six peer-reviewed SCIE-indexed papers, including publications in CAS Tier 2 TOP 
@@ -52,6 +54,8 @@ multi-AUV formations.**
 </table>
 
 <br>
+
+####  <p style="color: red; font-size: 30px"> Since 2020: Citations	28	;  h-index	3	</p>
 
 <br>
 
