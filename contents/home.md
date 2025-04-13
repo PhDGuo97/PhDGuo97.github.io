@@ -1,9 +1,16 @@
 
   
 
-*目前正在中山大学系统科学与工程学院攻读博士学位！*<br>
+*目前正在中山大学系统科学与工程学院攻读博士学位！截至目前已经发表了6本peer-reviewed 的SCIE论文，包括中科院二区TOP期刊
+和控制自动化领域内的排名靠前的IEEE Trans。于2025年2月，被学校派遣到中国人民解放军军事科学院下的国防创新研究院进行联培，
+研究基于强化学习的多水下航行器的编队围捕方向。*<br>
 **I'm currently pursuing an Engineering Doctor  degree in Computer Science and Technology
-at the School of Systems science and Engineering, Sun Yat-sen University, Guangzhou, China.**
+at the School of Systems science and Engineering, Sun Yat-sen University, Guangzhou, China. To date, 
+I have published six peer-reviewed SCIE-indexed papers, including publications in CAS Tier 2 TOP 
+journals and leading IEEE Transactions in the field of control and automation. In February 2025, 
+I was selected by my university for a joint training program at the National Innovation Institute 
+of Defense Technology, where I conduct research on reinforcement learning-based cooperative encirclement control for
+multi-AUV formations.**
  
 <!--**居住地 |&ensp; Current Residence： 广东 - 广州 |&ensp;  Guangdong - Guangzhou** <br> 
 #### Email  
@@ -26,12 +33,12 @@ at the School of Systems science and Engineering, Sun Yat-sen University, Guangz
         <th>Personal Website  </th>
     </tr>
     <tr>
-        <td>籍贯 |&ensp;  Place of Origin： 山东 - 济宁 |&ensp;  Shandong - Jining   </td>
+        <td>籍贯 |&ensp;  Origin： 山东 - 济宁 |&ensp;  Shandong - Jining   </td>
         <td>xinpx1457@163.com</td>
         <td><a href="https://orcid.org/0000-0002-3080-9244"> [ORCID] </a></td>
     </tr>
    <tr>
-        <td>居住地 |&ensp; Current Residence： 广东 - 广州 |&ensp;  Guangdong - Guangzhou</td>
+        <td>居住地 |&ensp;  Residence： 广东 - 广州 |&ensp;  Guangdong - Guangzhou</td>
         <td>guogx5@mail2.sysu.edu.cn</td>
         <td><a href = "https://scholar.google.com/citations?user=A5YN3oUAAAAJ&hl=en" >[Google Scholar]</a></td>
     </tr>
@@ -46,7 +53,8 @@ at the School of Systems science and Engineering, Sun Yat-sen University, Guangz
 
 
 #### Education  
-<img src="SYSU.png" alt="SYSU" width="800" height="100">
+<!-- ![sysu](..\static\assets\img\sysu.png)-->
+<img src="..\static\assets\img\sysu.png" alt="SYSU" width="800" height="100">
 
 **<p style="color: blue; font-size: 20px">Sun Yat-sen University,School of Systems science and Engineering** </p>
 *Engineering Doctor of Electronic Information (2024 9 – 2028 6)*  
@@ -58,7 +66,7 @@ Optimal Control |&ensp;  最优控制
 Frontiers in Deep Learning |&ensp;  深度学习前沿 <br>
 
 
-<img src="tgu.png" alt="tgu" width="800" height="100">
+<img src="..\static\assets\img\tgu.png" alt="tgu" width="800" height="100">
 
 **<p style="color: pink; font-size: 20px">Tiangong University, School of  Computer Science and Technology</p>**
 *Master of  Computer Science and Technology (2020 9 – 2023 3)*   
@@ -69,7 +77,7 @@ Principles and Applications of Artificial Intelligence |&ensp; 人工智能原�
 Matrix Theory |&ensp; 矩阵论, Numerical Analysis |&ensp; 数值分析, Combinatorics |&ensp; 组合数学, 
 Principles of Automatic Control |&ensp; 自动控制原理, Linear Systems |&ensp; 线性系统, Nonlinear Systems Control |&ensp; 非线性系统控制 <br>
 
-<img src="jnu.png" alt="jnu" width="800" height="100">
+<img src="..\static\assets\img\jnu.png" alt="jnu" width="800" height="100">
 
 **<p style="color: green; font-size: 20px">Jining University, School of  Computer Science and Engineering</p>**
 *Bachelor of  Computer Science and Technology  (2018 9  – 2020 6)* <br>

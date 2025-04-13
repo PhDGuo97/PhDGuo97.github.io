@@ -24,4 +24,4 @@
 **<p style="color: skyblue; font-size: 20px"> Leadership Membership  |&ensp;  学术组织会员 </p>**
 - 中国自动化学会会员 |&ensp; CAA Preparatory Members
 
-<img src="caa.png" alt="caa" width="400" height="100">
+<img src="..\static\assets\img\caa.png" alt="caa" width="400" height="100">
