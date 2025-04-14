@@ -15,12 +15,13 @@ Volume 312, Part 1, 2024, 119100,
 **J Braz. Soc. Mech. Sci. Eng.** 45, 453 (2023). https://doi.org/10.1007/s40430-023-04372-x
 <a href="https://link.springer.com/article/10.1007/s40430-023-04372-x">**[Paper Link]**</a>
 
-- Jie Sun, Yi Zhang, Zhanshan Zhao, **Guangxin Guo**  Yunjun Chen. Event-triggered adaptive sliding mode control design for a class of uncertain linear systems. 
+- Jie Sun, Yi Zhang, Zhanshan Zhao*, **Guangxin Guo**  Yunjun Chen. Event-triggered adaptive sliding mode control design for a class of uncertain linear systems. 
 J Braz. Soc. Mech. Sci. Eng. 46, 269 (2024). https://doi.org/10.1007/s40430-024-04825-x 
 <a href= "https://link.springer.com/article/10.1007/s40430-024-04825-x#citeas">"**[Paper Link]**</a>
 
-- Mingce Qi, Shuzhen Han, **Guangxin Guo**, Pengfei Liu, Yuanyuan Zhi, Zhanshan Zhao. Adaptive trajectory tracking 
+- Mingce Qi, Shuzhen Han*, **Guangxin Guo**, Pengfei Liu, Yuanyuan Zhi, Zhanshan Zhao. Adaptive trajectory tracking 
 control of robotic manipulators based on integral sliding mode. **Asian J. Control**, (2024), 1-12, DOI 10.1002/asjc.3507. 
 <a href= "https://onlinelibrary.wiley.com/doi/10.1002/asjc.3507">"**[Paper Link]**</a>
-- Jie Sun, Yanan Chen, Zhanshan Zhao, **Guangxin Guo**. Event-triggered adaptive control based on integral sliding mode surface for a class of systems with matched disturbance, 
+
+- Jie Sun, Yanan Chen, Zhanshan Zhao*, **Guangxin Guo**. Event-triggered adaptive control based on integral sliding mode surface for a class of systems with matched disturbance, 
 **Asian J Control** 25 (2023), 4525–4538, DOI 10.1002/asjc.3117. <a href= "https://onlinelibrary.wiley.com/doi/10.1002/asjc.3117">"**[Paper Link]**</a>

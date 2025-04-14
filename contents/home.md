@@ -37,18 +37,18 @@ multi-AUV formations.**
         <th>Personal Website  </th>
     </tr>
     <tr>
-        <td>籍贯 |&ensp;  Origin： 山东 - 济宁 |&ensp;  Shandong - Jining;   </td>
-        <td>xinpx1457@163.com;</td>
+        <td>籍贯 |&ensp;  Origin： 山东 - 济宁 |&ensp;  Shandong - Jining   </td>
+        <td>xinpx1457@163.com</td>
         <td><a href="https://orcid.org/0000-0002-3080-9244"> [ORCID] </a></td>
     </tr>
    <tr>
-        <td>居住地 |&ensp;  Residence： 广东 - 广州 |&ensp;  Guangdong - Guangzhou;</td>
-        <td>guogx5@mail2.sysu.edu.cn;</td>
+        <td>居住地 |&ensp;  Residence： 广东 - 广州 |&ensp;  Guangdong - Guangzhou &nbsp; &nbsp;</td>
+        <td>guogx5@mail2.sysu.edu.cn &nbsp; &nbsp;</td>
         <td><a href = "https://scholar.google.com/citations?user=A5YN3oUAAAAJ&hl=en" >[Google Scholar]</a></td>
     </tr>
    <tr>
-        <td>年龄 |&ensp; Age： 27; </td>
-        <td>guo.ggxin1457@gmail.com;</td>
+        <td>年龄 |&ensp; Age： 27 </td>
+        <td>guo.ggxin1457@gmail.com</td>
         <td><a href="https://www.researchgate.net/profile/Guangxin-Guo-4?ev=hdr_xprf"> [ResearchGate]</a></td>
     </tr>
 </table>
@@ -64,7 +64,8 @@ multi-AUV formations.**
 <img src="..\static\assets\img\sysu.png" alt="SYSU" width="800" height="100">
 
 **<p style="color: blue; font-size: 20px">Sun Yat-sen University,School of Systems science and Engineering** </p>
-*Engineering Doctor of Electronic Information (2024 9 – 2028 6)*  
+*Engineering Doctor of Electronic Information (2024 9 – 2028 6)* <br>
+电子信息工程博士<br> 
 **Graduate Supervisor:** **Prof. Xiao Shaoqiu |&ensp; 肖绍球** <br> 
 **Core Courses:** <br>
 Operations Research  |&ensp;  运筹学, 
@@ -76,7 +77,8 @@ Frontiers in Deep Learning |&ensp;  深度学习前沿 <br>
 <img src="..\static\assets\img\tgu.png" alt="tgu" width="800" height="100">
 
 **<p style="color: pink; font-size: 20px">Tiangong University, School of  Computer Science and Technology</p>**
-*Master of  Computer Science and Technology (2020 9 – 2023 3)*   
+*Master of  Computer Science and Technology (2020 9 – 2023 3)* <br>
+计算机技术专业硕士<br>
 **Graduate Supervisor:** **Prof. Zhao Zhanshan |&ensp; 赵占山** <br>
 **Core Courses:** <br>
 Machine Learning |&ensp; 机器学习, Advanced Algorithms |&ensp; 先进算法, Computer Vision |&ensp; 计算机视觉,
@@ -88,6 +90,7 @@ Principles of Automatic Control |&ensp; 自动控制原理, Linear Systems |&ens
 
 **<p style="color: green; font-size: 20px">Jining University, School of  Computer Science and Engineering</p>**
 *Bachelor of  Computer Science and Technology  (2018 9  – 2020 6)* <br>
+计算机科学与技术学士<br>
 **Core Courses:** <br>
 Advanced Mathematics |&ensp; 高等数学, Probability Theory |&ensp; 概率论, Linear Algebra |&ensp; 线性代数, 
 C/C++ Programming |&ensp; C/C++ 语言, Data Structures |&ensp; 数据结构, Operating Systems |&ensp; 操作系统,
@@ -98,14 +101,13 @@ Computer Networks |&ensp; 计算机网络, Robotics |&ensp; 机器人学  <br>
 
 #### <p style="color: balck; font-size: 30px"> Research Interests   </p>
 * Sliding Mode Control |&ensp; 滑模控制, 
-* Nonlinear Control, |&ensp; 非线性控制
-* Multi-agent Systems Consensus, |&ensp; 多智能体系统一致性
-* Autonomous Vehicle, |&ensp; 自主车辆
-* Adaptive Control, |&ensp; 自适应控制
+* Nonlinear Control |&ensp; 非线性控制
+* Multi-agent Systems Consensus |&ensp; 多智能体系统一致性
+* Autonomous Vehicle |&ensp; 自主车辆
+* Adaptive Control |&ensp; 自适应控制
 * State Observer/ Disturbance Observer, |&ensp; 状态观测器/ 扰动观测器
 * Reinforcement learning, |&ensp; 强化学习
-* Neural Network, |&ensp; 神经网络
-* Robot Formation, |&ensp; 机器人编队
+* Neural Network |&ensp; 神经网络
+* Robot Formation |&ensp; 机器人编队
 * Fixed-time Stability |&ensp; 固定时间稳定
 * Predefined-time Stability |&ensp; 预定时间稳定
-.
