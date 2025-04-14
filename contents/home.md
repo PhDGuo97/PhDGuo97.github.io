@@ -1,7 +1,45 @@
+l
+    <div class="container">
+        <div class="main-content">
+            <!-- Stats section -->
+            <div class="stats-container">
+                <div class="stat-item">
+                    <div class="stat-number">39</div>
+                    <div class="stat-label">项目</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">740</div>
+                    <div class="stat-label">成果</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">793</div>
+                    <div class="stat-label">阅读</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">下载</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">13</div>
+                    <div class="stat-label">H-指数</div>
+                </div>
+            </div>
+            <!-- Navigation -->
+            <div class="nav-menu">
+                <div class="nav-item active">主页</div>
+                <div class="nav-item">成果</div>
+                <div class="nav-item">项目</div>
+                <div class="nav-item">合作</div>
+                <div class="nav-item">关于</div>
+            </div>
+            <!-- Homepage introduction -->
+            <div class="homepage-intro">
+                <h2 class="intro-title">个人简介</h2>
+                <p class="intro-text">欢迎访问我的学术主页。我目前的研究方向主要集中在控制理论与技术、人工智能驱动的自动化以及机器人学习智能系统等领域。</p>
 
 *目前正在中山大学系统科学与工程学院攻读博士学位！截至目前已经发表了6本peer-reviewed 的SCIE论文，包括中科院二区TOP期刊
 和控制自动化领域内的排名靠前的IEEE Trans。于2025年2月，有幸被学校派遣到中国人民解放军军事科学院下的国防创新研究院进行联合培养，
-研究基于强化学习的多水下航行器的编队围捕方向。*<br>
+研究基于强化学习的多水下航行器的编队围捕方向。*
 <br>
 
 **I'm currently pursuing an Engineering Doctor  degree in Computer Science and Technology
@@ -13,19 +51,6 @@ of Defense Technology, where I conduct research on reinforcement learning-based 
 multi-AUV formations.**
  
 <br>
-
-<!--**居住地 |&ensp; Current Residence： 广东 - 广州 |&ensp;  Guangdong - Guangzhou** <br> 
-#### Email  
-<code>xinpx1457@163.com</code>  
-<code>guogx5@mail2.sysu.edu.cn</code> <br>
-<code>guo.ggxin1457@gmail.com</code>
-#### Personal Website  
-
-<a href="https://orcid.org/0000-0002-3080-9244"> [ORCID] </a>
-
-<a href = "https://scholar.google.com/citations?user=A5YN3oUAAAAJ&hl=en" >[Google Scholar]</a>
-
-<a href="https://www.researchgate.net/profile/Guangxin-Guo-4?ev=hdr_xprf"> [ResearchGate]</a>-->
 
 
  <table border="0"> <!-- border="0" 用于显示边框，实际开发中推荐使用CSS来控制样式 -->
@@ -53,7 +78,69 @@ multi-AUV formations.**
 
 <br>
 
-####  <p style="color: red; font-size: 30px"> Since 2020: Citations	28	;  h-index	3	</p>
+ <p style="color: red; font-size: 30px"> Since 2020: Citations	28	;  h-index	3	</p>
+
+
+
+
+
+<p class="intro-text">近年来，我们在IEEE/ASME
+Transactions on Mechatronics、Automatica、IEEE Transactions on Industrial
+Electronics等国际知名期刊发表多篇论文，并获得多项发明专利。</p>
+            </div>
+            <!-- Filter section (only shown on "成果" page) -->
+            <!-- <div class="filter-section">
+                <div class="filter-title">成果类型</div>
+                <div class="filter-options">
+                    <div class="filter-option">✔ 收录类别</div>
+                    <div class="filter-option">✔ 年份</div>
+                </div>
+            </div> -->
+            <!-- Publications (only shown on "成果" page) -->
+            <!-- <div class="publication">
+                <div class="publication-title">Simultaneous Hand-Eye/Robot-World/Camera-IMU Calibration</div>
+                <div class="publication-authors">Wu, Jin; Wang, Miaomiao; Jiang, Yi*; Yi, Bowen; Fan, Rui; Liu, Ming</div>
+                <div class="publication-journal">IEEE/ASME Transactions on Mechatronics, 2022, 27(4): 2278-2289.</div>
+                <div class="publication-actions">
+                    <div class="action-btn">🔍 赞</div>
+                    <div class="action-btn">✔ 收藏</div>
+                    <div class="action-btn">✔ 分享</div>
+                    <div class="action-btn">✔ 浏览</div>
+                </div>
+            </div> -->
+        </div>
+        <div class="sidebar">
+            <div class="sidebar-section">
+                <div class="sidebar-title">学科分类</div>
+                <a href="#" class="subject-item">控制理论与技术</a>
+                <a href="#" class="subject-item">人工智能驱动的自动化</a>
+                <a href="#" class="subject-item">机器人学习智能系统</a>
+            </div>
+            <div class="sidebar-section">
+                <div class="sidebar-title">关键词</div>
+                <a href="#" class="keyword-item">强化学习</a>
+                <a href="#" class="keyword-item">最优控制</a>
+                <a href="#" class="keyword-item">自适应控制</a>
+                <a href="#" class="keyword-item">事件触发控制</a>
+                <a href="#" class="keyword-item">网络控制系统</a>
+            </div>
+            <div class="sidebar-section">
+                <div class="sidebar-title">相关人员</div>
+                <div class="people-container">
+                    <div class="person-tag">范家强</div>
+                    <div class="person-tag">赵忠忠</div>
+                    <div class="person-tag">叶丽敏</div>
+                    <div class="person-tag">李东红</div>
+                    <div class="person-tag">林文杰</div>
+                    <div class="person-tag">李东红</div>
+                </div>
+                <div class="view-more">查看更多 ></div>
+            </div>
+        </div>
+    </div>
+
+
+
 
 <br>
 
@@ -110,6 +197,4 @@ Computer Networks |&ensp; 计算机网络, Robotics |&ensp; 机器人学  <br>
 * Fixed-time Stability |&ensp; 固定时间稳定
 * Predefined-time Stability |&ensp; 预定时间稳定
 
-    </div>
-</div>
-     
+ 
