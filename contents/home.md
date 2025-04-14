@@ -16,11 +16,11 @@ l
                     <div class="stat-label">阅读</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">3</div>
-                    <div class="stat-label">下载</div>
+                    <div class="stat-number">28</div>
+                    <div class="stat-label">引用</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">13</div>
+                    <div class="stat-number">3</div>
                     <div class="stat-label">H-指数</div>
                 </div>
             </div>
@@ -84,9 +84,8 @@ multi-AUV formations.**
 
 
 
-<p class="intro-text">近年来，我们在IEEE/ASME
-Transactions on Mechatronics、Automatica、IEEE Transactions on Industrial
-Electronics等国际知名期刊发表多篇论文，并获得多项发明专利。</p>
+<p class="intro-text">近年来，在IEEE Transactions on Automation Science and Engineering, 和Ocean Engineering等国际知名期刊发表多篇论文，
+并获得多项发明专利。</p>
             </div>
             <!-- Filter section (only shown on "成果" page) -->
             <!-- <div class="filter-section">
@@ -113,11 +112,17 @@ Electronics等国际知名期刊发表多篇论文，并获得多项发明专利
             <div class="sidebar-section">
                 <div class="sidebar-title">学科分类</div>
                 <a href="#" class="subject-item">控制理论与技术</a>
+                <a href="#" class="subject-item">控制工程</a>
+                <a href="#" class="subject-item">强化学习</a>
+                <a href="#" class="subject-item">机器人编队</a>
+                <a href="#" class="subject-item">路径规划</a>
                 <a href="#" class="subject-item">人工智能驱动的自动化</a>
                 <a href="#" class="subject-item">机器人学习智能系统</a>
             </div>
             <div class="sidebar-section">
                 <div class="sidebar-title">关键词</div>
+                <a href="#" class="subject-item">机器人</a>
+                <a href="#" class="subject-item">非线性系统</a>
                 <a href="#" class="keyword-item">强化学习</a>
                 <a href="#" class="keyword-item">最优控制</a>
                 <a href="#" class="keyword-item">自适应控制</a>
@@ -127,20 +132,17 @@ Electronics等国际知名期刊发表多篇论文，并获得多项发明专利
             <div class="sidebar-section">
                 <div class="sidebar-title">相关人员</div>
                 <div class="people-container">
-                    <div class="person-tag">范家强</div>
-                    <div class="person-tag">赵忠忠</div>
-                    <div class="person-tag">叶丽敏</div>
-                    <div class="person-tag">李东红</div>
-                    <div class="person-tag">林文杰</div>
-                    <div class="person-tag">李东红</div>
+                    <div class="person-tag"><a href="https://ssse.sysu.edu.cn/teacher/1014"> 肖绍球</a></div>
+                    <div class="person-tag"><a href="https://eeit.hnu.edu.cn/info/1698/9298.htm"> 谭浩然</a></div>
+                    <div class="person-tag"><a href="https://eeit.hnu.edu.cn/info/1819/9995.htm" >冯运</a></div>
+                    <div class="person-tag"><a href="https://eeit.hnu.edu.cn/info/1277/4490.htm">王耀南</a></div>
+                    <div class="person-tag">赵占山</div>
+                    <div class="person-tag">祁明策</div>
                 </div>
                 <div class="view-more">查看更多 ></div>
             </div>
         </div>
     </div>
-
-
-
 
 <br>
 
