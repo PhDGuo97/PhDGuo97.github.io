@@ -1,6 +1,41 @@
 
-  
-
+<div>
+    <div>
+        <div class="sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-title">学科分类</div>
+            <a href="#" class="subject-item">控制理论与技术</a>
+            <a href="#" class="subject-item">人工智能驱动的自动化</a>
+            <a href="#" class="subject-item">机器人学习智能系统</a>
+        </div>
+<button type="button" onclick="alert('Hello World!')">点击这里</button>
+        <div class="sidebar-section">
+            <div class="sidebar-title">关键词</div>
+             <a href="#" class="keyword-item">滑模控制</a>
+            <a href="#" class="keyword-item">多智能体</a>
+            <a href="#" class="keyword-item">机器人编队</a>
+            <a href="#" class="keyword-item">强化学习</a>
+            <a href="#" class="keyword-item">最优控制</a>
+            <a href="#" class="keyword-item">自适应控制</a>
+            <a href="#" class="keyword-item">事件触发控制</a>
+            <a href="#" class="keyword-item">网络控制系统</a>
+        </div>
+<button type="button" onclick="alert('Hello World!')">点击这里</button>****
+        <div class="sidebar-section">
+            <div class="sidebar-title">相关人员</div>
+            <div class="people-container">
+                <div class="person-tag">肖绍球</div>
+                <div class="person-tag">赵占山</div>
+                <div class="person-tag">谭浩然</div>
+                <div class="person-tag">冯运</div>
+                <div class="person-tag">王耀南</div>
+                <div class="person-tag">祁明策</div>
+            </div>
+            <div class="view-more">查看更多 ></div>
+        </div>
+    </div>
+    </div>
+    <div>
 *目前正在中山大学系统科学与工程学院攻读博士学位！截至目前已经发表了6本peer-reviewed 的SCIE论文，包括中科院二区TOP期刊
 和控制自动化领域内的排名靠前的IEEE Trans。于2025年2月，有幸被学校派遣到中国人民解放军军事科学院下的国防创新研究院进行联合培养，
 研究基于强化学习的多水下航行器的编队围捕方向。*<br>
@@ -111,3 +146,7 @@ Computer Networks |&ensp; 计算机网络, Robotics |&ensp; 机器人学  <br>
 * Robot Formation |&ensp; 机器人编队
 * Fixed-time Stability |&ensp; 固定时间稳定
 * Predefined-time Stability |&ensp; 预定时间稳定
+
+    </div>
+</div>
+     

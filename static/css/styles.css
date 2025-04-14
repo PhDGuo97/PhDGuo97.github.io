@@ -10,6 +10,100 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+
+        .sidebar {
+            flex: 1;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-left: 1px solid #e0e0e0;
+        }
+
+        .sidebar-section {
+            margin-bottom: 30px;
+        }
+
+        .sidebar-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .subject-item, .keyword-item {
+            display: block;
+            padding: 8px 0;
+            color: #555;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        .subject-item:hover, .keyword-item:hover {
+            color: #1a73e8;
+        }
+
+        .people-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .person-tag {
+            background-color: #e8f0fe;
+            color: #1a73e8;
+            padding: 5px 10px;
+            border-radius: 15px;
+            margin: 0 8px 8px 0;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .person-tag:hover {
+            background-color: #d2e3fc;
+        }
+
+        .view-more {
+            color: #1a73e8;
+            font-size: 14px;
+            cursor: pointer;
+            margin-top: 10px;
+            display: inline-block;
+        }
+
+        .view-more:hover {
+            text-decoration: underline;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 :root {
   --bs-blue: #2937f0;
   --bs-indigo: #6610f2;
