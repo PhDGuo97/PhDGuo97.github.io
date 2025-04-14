@@ -330,6 +330,7 @@
   --bs-link-hover-color: #212cc0;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
+  --bs-body-text-align: justify
 }
 
 *,
@@ -638,7 +639,7 @@ button,
 [type=reset],
 [type=submit] {
   -webkit-appearance: button;
-  appearance: button;
+  appearance: menulist-button;
 }
 button:not(:disabled),
 [type=button]:not(:disabled),
@@ -719,7 +720,7 @@ legend + * {
 ::file-selector-button {
   font: inherit;
   -webkit-appearance: button;
-  appearance: button;
+  appearance: menulist-button;
 }
 
 output {
@@ -777,9 +778,9 @@ progress {
 }
 
 .display-3 {
-  font-size: calc(1.525rem + 3.3vw);
-  font-weight: 300;
-  line-height: 1.2;
+  font-size: calc(1.2rem + 3.0vw);
+  font-weight: 200;
+  line-height: 1.0;
 }
 @media (min-width: 1200px) {
   .display-3 {
@@ -888,7 +889,7 @@ progress {
   color: #6c757d;
 }
 
-.container,
+.container_1,
 .container-fluid,
 .container-xxl,
 .container-xl,
