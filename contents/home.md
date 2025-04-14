@@ -78,7 +78,6 @@ multi-AUV formations.**
 
 <br>
 
- <p style="color: red; font-size: 30px"> Since 2020: Citations	28	;  h-index	3	</p>
 
 
 
